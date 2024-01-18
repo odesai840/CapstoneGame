@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGame\\CapstoneGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\.vscode\\compileCommands_CapstoneGame\\CapstoneGame.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGame\\CapstoneGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\.vscode\\compileCommands_CapstoneGame\\CapstoneGame.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGame\\CapstoneGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\.vscode\\compileCommands_CapstoneGame\\CapstoneGame.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

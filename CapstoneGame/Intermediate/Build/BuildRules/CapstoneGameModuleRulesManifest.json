@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGame\\CapstoneGame.Build.cs",
+		"D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGame.Target.cs",
+		"D:\\Unreal Projects\\CapstoneGame\\CapstoneGame\\CapstoneGame\\Source\\CapstoneGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
